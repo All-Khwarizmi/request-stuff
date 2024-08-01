@@ -25,7 +25,7 @@
     "clsx": "2.1.1",
     "eslint": "9.4.0",
     "eslint-config-next": "14.2.2",
-    "firebase": "10.11.1",
+    "firebase": "10.12.4",
     "firebase-admin": "12.3.0",
     "fp-ddd": "0.0.9",
     "fp-ts": "2.16.9",
